@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    max-width: 360px;
+    max-width: 320px;
     margin: 0 auto;
     height: 100vh;
     display: flex;
@@ -25,6 +25,7 @@ body {
     padding: 15px;
     border-radius: 20px;
     text-align: center;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.05);
 }
 
 .card img {
@@ -33,7 +34,7 @@ body {
 }
 
 .text {
-    padding: 20px 30px;
+    padding: 20px 13px;
     color: hsl(218, 44%, 22%);
 }
 
